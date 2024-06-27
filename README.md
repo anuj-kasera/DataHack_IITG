@@ -28,10 +28,12 @@ Logistic Regression, Naive Bayes (Gaussian and Multinomial), SVC, Decision Trees
 **Metrics:**  Evaluated models based on ROC AUC score and accuracy on both training and test datasets.
 
 **Best Model:** Selected Gradient Boosting Classifier based on highest ROC AUC score:
+
 **ROC AUC Score (Train Data): 0.757
 ROC AUC Score (Test Data): 0.744**
 
 <h2>Conclusion</h2>
 
 **Achievements:** Successfully developed and optimized a multilabel classifier to predict vaccination status, demonstrating robust performance in healthcare analytics.
+
 **Next Steps:** Future work may involve further model refinement, deployment for real-time predictions, and integration into broader healthcare systems.
